@@ -1,4 +1,4 @@
-Development of Spatio-Temporal Hybrid Attentive Graph Network for Accurate Diagnosis of Mental Disorders on fMRI Time-Series Data
+Spatio-Temporal Hybrid Attentive Graph Network for Diagnosis of Mental Disorders on fMRI Time-Series Data
 ====
 
 Keras-based implementation of ST-HAG networks for time-series fMRI classification.
